@@ -1,0 +1,9 @@
+C:\Users\azhenley\Dropbox\W3CHTMLValidator\W3CHTMLValidator\bin\Debug\W3CHTMLValidator.exe.config
+C:\Users\azhenley\Dropbox\W3CHTMLValidator\W3CHTMLValidator\bin\Debug\W3CHTMLValidator.exe
+C:\Users\azhenley\Dropbox\W3CHTMLValidator\W3CHTMLValidator\bin\Debug\W3CHTMLValidator.pdb
+C:\Users\azhenley\Dropbox\W3CHTMLValidator\W3CHTMLValidator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\azhenley\Dropbox\W3CHTMLValidator\W3CHTMLValidator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\azhenley\Dropbox\W3CHTMLValidator\W3CHTMLValidator\bin\Debug\HtmlAgilityPack.xml
+C:\Users\azhenley\Dropbox\W3CHTMLValidator\W3CHTMLValidator\obj\Debug\W3CHTMLValidator.csprojResolveAssemblyReference.cache
+C:\Users\azhenley\Dropbox\W3CHTMLValidator\W3CHTMLValidator\obj\Debug\W3CHTMLValidator.exe
+C:\Users\azhenley\Dropbox\W3CHTMLValidator\W3CHTMLValidator\obj\Debug\W3CHTMLValidator.pdb
